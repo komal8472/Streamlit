@@ -82,6 +82,7 @@ Install required libraries
 Open terminal in the project folder
 
 Run the Streamlit application 
+
 use this - streamlit run file_name.py
 
 Enter numeric values separated by commas
