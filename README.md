@@ -1,4 +1,4 @@
-
+## Project Description
 
 This project is an interactive Statistical Calculator built using Streamlit that allows users to compute basic statistical measures from user-entered numerical data.
 The application is designed to make statistics simple, visual, and easy to understand for beginners.
