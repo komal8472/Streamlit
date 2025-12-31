@@ -23,15 +23,15 @@ Automatically sorts the entered values
 
 Computes important statistical measures:
 
-  Mean
+    Mean
 
-  Median
+    Median
 
-  Mode
+    Mode
 
-  Variance
+    Variance
 
-  Standard Deviation
+    Standard Deviation
 
 Displays mathematical formulas for better conceptual understanding
 
