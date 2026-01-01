@@ -1,3 +1,5 @@
+1 . Quick_Stats :
+
 ## Project Description
 
 This project is an interactive Statistical Calculator built using Streamlit that allows users to compute basic statistical measures from user-entered numerical data.
@@ -88,3 +90,40 @@ Run the Streamlit application
 Enter numeric values separated by commas
 
 View instant statistical results on the browser
+
+
+2 . LLM-Powered Exploratory Data Analysis (EDA)
+
+##  Project Overview
+
+This project simplifies the EDA process by combining traditional data analysis techniques with a Large Language Model.  
+Users can upload any CSV file and instantly receive statistical summaries, visualizations, and AI-generated insights.
+
+## Features
+
+- CSV file upload
+  
+- Automatic handling of missing values
+  
+- Statistical summary of the dataset
+  
+- Distribution plots for numerical features
+ 
+- Correlation heatmap
+  
+- AI-powered insights using Mistral LLM
+  
+- Interactive user interface using Gradio
+
+## Tools
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Gradio  
+- Ollama (Mistral)
+
+
+  
+
