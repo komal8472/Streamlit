@@ -91,6 +91,7 @@ Enter numeric values separated by commas
 
 View instant statistical results on the browser
 
+------------------------------------------------------------------------------
 
 2 . LLM-Powered Exploratory Data Analysis (EDA)
 
